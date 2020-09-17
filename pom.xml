@@ -107,6 +107,7 @@
 				<executions>
 					<execution>
 						<goals>
+							<goal>resources</goal>
 							<goal>update-theme</goal>
 							<goal>update-widgetset</goal>
 							<goal>compile</goal>
